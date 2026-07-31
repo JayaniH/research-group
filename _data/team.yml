@@ -1,20 +1,27 @@
 - name: "Dr. Kathleen Steinhofel"
+  orcid: "0000-0002-9533-4649"
   group: "Principal Investigator"
 
 - name: "Jayani Hewavitharana"
+  orcid: "0009-0006-5846-589X"
   group: "PhD Students"
 
 - name: "Prof. Karl Peter Giese"
+  orcid: "0000-0003-4503-7344"
   group: "Collaborators"
 
 - name: "Dr. Frederik Mallmann-Trenn"
+  orcid: ""
   group: "Collaborators"
 
 - name: "Pedro Henrique da Costa Avelar"
+  orcid: "0000-0002-0347-7002"
   group: "Collaborators"
 
 - name: "Carolina Moretti Ierardi"
+  orcid: "0009-0001-3549-0754"
   group: "Alumni"
 
 - name: "Amida Anand"
+  orcid: "0009-0008-3121-4016"
   group: "Alumni"

@@ -1,0 +1,9 @@
+- date: 2026-06-01
+  headline: "Paper Accepted at ICANN 2026"
+  content: >
+    We are excited to announce that our paper, "Representational Drift in Memory under Incremental Learning with Local Synaptic Mechanisms" has been accepted at the 35th International Conference on Artificial Neural Networks. This work explores how memory representations change over time in the context of incremental learning, providing insights into the dynamics of memory in both young and ageing brains.
+
+- date: 2026-06-05
+  headline: "Paper Accepted at ALIFE 2026"
+  content: >
+    We are excited to share that our paper, "Simulating Categorical Memory Engram Formation Under Young and Ageing Brain Conditions" has been accepted at the 2026 Artificial Life Conference. This research investigates how memory engrams for categorical information form under different age conditions, contributing to our understanding of memory processes in the brain.

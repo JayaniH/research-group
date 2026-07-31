@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-{% assign group_order = "Principal Investigator, PhD Students, Collaborators, Alumni" | split: "," %}
+{% assign group_order = "Principal Investigator,PhD Students,Collaborators,Alumni" | split: "," %}
 
 {% for group_name in group_order %}
 {% assign members = site.data.team | where: "group", group_name %}

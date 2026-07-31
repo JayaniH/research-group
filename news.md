@@ -4,7 +4,9 @@ title: News
 permalink: /news/
 ---
 
-{% for post in site.posts %}
-### [{{ post.title }}]({{ post.url | relative_url }})
-{{ post.date | date: "%B %-d, %Y" }}
+{% assign items = site.data.news | sort: "date | reverese %}
+{% for item in items% }
+### {{ item.headline }}
+**{{ item.date | date_to_long_string }}** 
+{{ item.content }}
 {% endfor %}

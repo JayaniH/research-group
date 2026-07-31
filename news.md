@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-{% assign items = site.data.news | sort: "date | reverese %}
+{% assign items = site.data.news | sort: "date" | reverese %}
 {% for item in items% }
 ### {{ item.headline }}
 **{{ item.date | date_to_long_string }}** 

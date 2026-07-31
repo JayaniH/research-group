@@ -3,3 +3,21 @@
   authors: "Jayani Hewavitharana, Amida Anand, Peter Giese, Carolina Moretti Ierardi, Kathleen Steinhofel"
   venue: "International Conference on Engineering Applications of Neural Networks"
   doi: "10.1007/978-3-031-96196-0_5"
+
+- year: 2025
+  title: "Computational analysis of learning in young and ageing brains"
+  authors: "Jayani Hewavitharana, Kathleen Steinhofel, Karl Peter Giese, Carolina Moretti Ierardi, Amida Anand"
+  venue: "Frontiers in Computational Neuroscience"
+  doi: "10.3389/fncom.2025.1565660"
+
+- year: 2026
+  title: "Representational Drift in Memory underIncremental Learning with Local Synaptic Mechanisms"
+  authors: "Jayani Hewavitharana, Pedro Henrique da Costa Avelar, Peter Giese, Kathleen Steinhofel"
+  venue: "International Conference on Artificial Neural Networks (In Press)"
+  doi: ""
+
+- year: 2026
+  title: "Simulating Categorical Memory Engram Formation Under Young and Ageing Brain Conditions"
+  authors: "Jayani Hewavitharana, Pedro Henrique da Costa Avelar, Peter Giese, Kathleen Steinhofel"
+  venue: "Artificial Life Conference (In Press)"
+  doi: ""

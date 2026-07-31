@@ -1,4 +1,4 @@
 - title: Computational Analysis of Ageing Brains
-  description: >
+  summary: >
     This project aims to understand the mechanisms of learning and memory in young and ageing brains using computational models. We investigate how synaptic plasticity and neural network dynamics change with age, and how these changes affect cognitive functions. Our research combines experimental data with computational simulations to provide insights into the ageing process and age-related cognitive decline.
   status: "Active"

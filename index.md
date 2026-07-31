@@ -17,4 +17,4 @@ Welcome to the research group homepage
 
 {% endfor %}
 
-[See all news →](/news/)
+[See all news →]({{ '/news/' | relative_url }})
